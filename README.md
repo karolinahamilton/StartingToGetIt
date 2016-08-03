@@ -4,4 +4,4 @@
 
 https://karolinahamilton.github.io/StartingToGetIt/
 
-Starting to add content
+Got the pics worked out, now lets see if we can change the background.

@@ -1,3 +1,3 @@
 # StartingToGetIt
 
-Now lets make a master 
+Now lets make a branch - this is patch 1

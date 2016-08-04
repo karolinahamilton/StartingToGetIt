@@ -10,8 +10,9 @@ body {
 
 .hero-spacer {
     margin-top: 50px;
-    background: #cccccc;
-}
+    background-image: url("images/Chrysanthemum.jpg");
+    background-color: #cccccc;
+    }
 
 .hero-feature {
     margin-bottom: 30px;
